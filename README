@@ -1,0 +1,15 @@
+timbl_client
+============
+A bare-bones client for TimblServer. For more information, consult
+http://ilk.uvt.nl/timbl/ and/or
+http://ilk.uvt.nl/downloads/pub/papers/TimblServer_1.0_Manual.pdf.
+
+Installation
+============
+gem install timbl_client
+
+There are no dependencies.
+
+Copyright
+=========
+Copyright (c) 2010 Bjørn Arild Mæland. See LICENSE for details.
